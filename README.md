@@ -23,7 +23,7 @@ Prerequisites
 To install a color variation, you must first install the Digi style.
 
 ## Download
-https://github.com/MrGabatt/DigiForPhpbb32/archive/master.zip
+https://github.com/MrGabatt/DigiForPhpbb33/archive/master.zip
 
 
 ## License
